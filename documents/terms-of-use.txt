@@ -1,0 +1,121 @@
+LUCKYCAT TERMS OF USE
+
+Version: 1.0
+Effective date: 10 August 2026
+Last updated: 10 August 2026
+
+1. AGREEMENT AND ELIGIBILITY
+
+These Terms of Use (the "Terms") form an agreement between you and Oleksandr Ukrainets (OlekU), Poland (the "Developer"), concerning the LuckyCat mobile game (the "Game"), package identifier com.OlekU.LuckyCat.
+
+You must be at least 18 years old to download, accept these Terms, or use the Game. The Game is intended for an adult pet owner to operate while supervising an animal. If you do not agree to these Terms, select "Not Now" and do not use the Game.
+
+You accept these Terms by selecting the acceptance button presented in the Game. The Game stores the accepted Terms version and UTC acceptance time only on your device.
+
+2. LIMITED LICENCE
+
+Subject to these Terms and applicable law, the Developer grants you a limited, personal, non-exclusive, non-transferable, non-sublicensable, and revocable licence to install and use one copy of the Game on devices that you own or control, solely for private, non-commercial entertainment and in accordance with the applicable app store rules.
+
+The Game is licensed, not sold. No ownership right in the Game is transferred to you. The licence ends if these Terms are terminated, but termination does not remove rights that have already arisen under mandatory law.
+
+3. OWNERSHIP AND THIRD-PARTY COMPONENTS
+
+The Developer and the Developer's licensors retain all rights in the Game, including its code, original artwork, visual design, audio, text, gameplay presentation, trade names, and LuckyCat branding, except for rights expressly granted in these Terms.
+
+The Game may include third-party software, fonts, tools, or other materials. Those components remain subject to their applicable copyright notices and licence terms. Nothing in these Terms reduces rights granted to you directly under an applicable open-source or third-party licence.
+
+4. ACCEPTABLE USE
+
+You must not, except to the extent expressly permitted by mandatory law or an applicable third-party licence:
+
+- use the Game for an unlawful, fraudulent, abusive, or commercial purpose;
+- copy, sell, rent, lease, sublicense, distribute, publish, or commercially exploit the Game or a substantial part of it;
+- modify, adapt, translate, create derivative works from, reverse engineer, decompile, or disassemble the Game;
+- bypass, disable, interfere with, or test the security, integrity, access controls, or intended operation of the Game;
+- use automation, modified software, or other means to manipulate the Game in a way that harms the Game, a device, another person, or the Developer's rights; or
+- remove or obscure copyright, trademark, attribution, or other proprietary notices.
+
+This section does not prohibit acts that cannot lawfully be restricted, including interoperability or security research rights that mandatory law gives you, provided you comply with the conditions of that law.
+
+5. ADULT SUPERVISION, PET SAFETY, AND DEVICE SAFETY
+
+The Game displays moving visual targets intended to attract an animal's attention. Animal behaviour is unpredictable. You are the adult responsible for supervising every session and deciding whether the Game, the device, the surroundings, and the animal are suitable for use.
+
+Before and during use, you should:
+
+- place the device on a stable, secure, flat surface where it cannot fall or slide;
+- remove sharp, fragile, valuable, hot, electrical, or otherwise hazardous objects from the animal's reach;
+- protect the device as appropriate and consider the risk of scratches, bites, impacts, liquid, or other damage;
+- keep people, other animals, cables, and obstacles safely clear;
+- monitor the animal continuously; and
+- stop immediately if the animal shows stress, fear, frustration, overexcitement, aggression, fatigue, physical discomfort, or unsafe behaviour.
+
+Do not hold a device in a way that places your hands, face, or body in the path of an animal's paws, claws, teeth, or movement. Do not use the Game as a substitute for appropriate care, rest, exercise, environmental enrichment, training, or professional advice.
+
+6. NO VETERINARY OR PROFESSIONAL ADVICE
+
+The Game is an entertainment product. It does not provide veterinary, behavioural, medical, training, or other professional advice and is not designed to diagnose, prevent, monitor, or treat any condition.
+
+The Developer does not promise that any animal will notice, enjoy, understand, or safely react to the Game, or that use will produce a particular behavioural, health, or enrichment result. If you have concerns about an animal's health or behaviour, stop using the Game and consult an appropriately qualified professional.
+
+7. OPERATION, UPDATES, AND DISCONTINUATION
+
+The current Game is provided free of charge and is designed to operate offline. Compatibility and performance can vary by device, operating system, display, input hardware, and settings.
+
+The Developer may provide updates to maintain security, compatibility, functionality, or legal compliance. An update may change or remove features. Where applicable law requires an update, notice, continued availability, or another remedy, the Developer will comply with that requirement.
+
+The Developer may stop distributing or supporting the free Game for legitimate operational, technical, security, or legal reasons. When reasonably practicable, the Developer will provide reasonable notice. Discontinuation does not cancel obligations or remedies that arose earlier under mandatory law.
+
+8. STATUTORY CONSUMER RIGHTS AND WARRANTIES
+
+Nothing in these Terms excludes, restricts, or replaces mandatory consumer rights, including rights relating to conformity, digital content, security updates, remedies, and unfair contract terms that apply in your country.
+
+Subject to those mandatory rights, the Game is made available on an "as available" basis. The Developer does not promise that the Game will meet every preference, operate on every device or future operating-system version, remain uninterrupted, or be completely free from defects. This does not exclude any warranty or remedy that cannot lawfully be excluded.
+
+9. RESPONSIBILITY AND LIMITATION OF LIABILITY
+
+You are responsible for following the safety instructions in these Terms and for taking reasonable care of the animal, device, people, property, and surroundings. To the extent permitted by applicable law, the Developer is not responsible for loss or damage to the extent it is caused by unsafe placement, inadequate supervision, an animal's unpredictable act, a failure to stop unsafe use, device modification, use contrary to these Terms, or another circumstance outside the Developer's reasonable control.
+
+The Game is intended for private consumer use. To the extent permitted by law, the Developer is not responsible for business losses, loss of profit, loss of revenue, loss of business opportunity, or other commercial loss resulting from consumer use of the Game. The Developer is not responsible for loss that was not reasonably foreseeable when these Terms were accepted.
+
+Nothing in these Terms excludes or limits liability for death or personal injury caused by negligence where such liability cannot be excluded, fraud or fraudulent misrepresentation, intentional misconduct, gross negligence, or any other liability or consumer remedy that mandatory law does not allow to be excluded or limited.
+
+10. SUSPENSION AND TERMINATION
+
+You may end this agreement at any time by stopping use and uninstalling the Game.
+
+The Developer may terminate the licence if you materially breach these Terms and, where the breach can be remedied, you do not remedy it within a reasonable time after notice. The Developer may act immediately where reasonably necessary to address illegal use, a serious security risk, or harm to another person or the Developer's rights. Sections that by their nature should continue, including ownership, accrued rights, applicable law, and lawful liability limitations, survive termination.
+
+11. GOOGLE PLAY
+
+If you obtain the Game through Google Play, your use is also subject to the applicable Google Play terms. Google is not a party to these Terms between you and the Developer, and these Terms do not reduce any rights you have against Google under its terms or applicable law.
+
+12. PRIVACY
+
+The LuckyCat Privacy Policy explains the Game's no-data operation, local preferences, optional support communications, retention, service providers, and your privacy rights. The Privacy Policy is available from the Welcome screen and at https://aleksandrukrainets.github.io/luckycat-legal/privacy-policy/.
+
+13. CHANGES TO THESE TERMS
+
+The Developer may change these Terms when reasonably necessary to reflect changes to the Game, law, security, distribution, or the parties' rights and responsibilities. The updated Terms will identify a new version and effective date and will be published in the Game and on the public legal pages.
+
+If a change is material, the Game will require a new explicit acceptance before starting a new game session. If you do not accept the updated Terms, you may decline and stop using the Game. A change does not retroactively remove rights or remedies that have already arisen under mandatory law.
+
+14. GOVERNING LAW AND DISPUTES
+
+These Terms are governed by the law of Poland, without depriving you of mandatory consumer protections provided by the law of the country in which you habitually live.
+
+The parties should first try to resolve a concern by contacting lucky.cat.support@gmail.com. You may bring proceedings in any court that has jurisdiction under mandatory consumer law, including, where applicable, the courts of the country in which you live. These Terms do not require arbitration, waive participation in a class or collective action, or prevent use of an available consumer-protection authority or dispute-resolution body.
+
+15. GENERAL TERMS
+
+If a provision of these Terms is found invalid or unenforceable, it will be applied to the maximum extent permitted by law and the remaining provisions will continue in effect. A failure to enforce a provision immediately is not a waiver. You may not transfer this agreement except where mandatory law permits. The Developer may transfer it as part of a lawful transfer of the Game or business, provided your mandatory rights are preserved.
+
+These Terms and the documents expressly incorporated into them are the agreement concerning your use of the Game, subject always to mandatory law and applicable third-party licences.
+
+16. CONTACT
+
+Questions, notices, and support requests may be sent to:
+
+Oleksandr Ukrainets (OlekU)
+Poland
+lucky.cat.support@gmail.com

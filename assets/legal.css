@@ -1,0 +1,115 @@
+:root {
+    color-scheme: light dark;
+    font-family: Inter, Manrope, system-ui, -apple-system, "Segoe UI", sans-serif;
+    background: #071524;
+    color: #f4f0e8;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    background: radial-gradient(circle at top right, #162941, #071524 55%);
+}
+
+a {
+    color: #f6c453;
+}
+
+a:hover,
+a:focus-visible {
+    color: #ffe4b1;
+}
+
+.site-header,
+.site-footer,
+.legal-page,
+.landing {
+    width: min(960px, calc(100% - 32px));
+    margin-inline: auto;
+}
+
+.site-header {
+    padding: 28px 0 18px;
+    display: flex;
+    gap: 20px;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.site-header a {
+    text-decoration: none;
+}
+
+.legal-page,
+.landing {
+    padding: 28px clamp(20px, 5vw, 56px);
+    background: rgba(21, 33, 48, 0.94);
+    border: 1px solid #2c3a4c;
+    border-radius: 18px;
+    box-shadow: 0 18px 60px rgba(0, 0, 0, 0.28);
+}
+
+.legal-copy {
+    margin: 0;
+    overflow-wrap: anywhere;
+    white-space: pre-wrap;
+    font: 400 1rem/1.65 Inter, Manrope, system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+.landing h1 {
+    margin-top: 0;
+}
+
+.document-list {
+    display: grid;
+    gap: 16px;
+    padding: 0;
+    list-style: none;
+}
+
+.document-list a {
+    display: block;
+    min-height: 54px;
+    padding: 15px 18px;
+    border: 1px solid #d2c5b0;
+    border-radius: 12px;
+    font-weight: 650;
+    text-decoration: none;
+}
+
+.site-footer {
+    padding: 22px 0 34px;
+    color: #d2c5b0;
+    font-size: 0.875rem;
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        background: #eaf1f7;
+        color: #102131;
+    }
+
+    body {
+        background: radial-gradient(circle at top right, #ffffff, #eaf1f7 60%);
+    }
+
+    .legal-page,
+    .landing {
+        background: rgba(255, 255, 255, 0.96);
+        border-color: #afc2d4;
+    }
+
+    a,
+    a:hover,
+    a:focus-visible {
+        color: #765100;
+    }
+
+    .site-footer {
+        color: #455b70;
+    }
+}
