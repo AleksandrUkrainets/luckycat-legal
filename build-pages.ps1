@@ -57,8 +57,8 @@ foreach ($document in $manifest.documents) {
     </main>
     <footer class="site-footer">
         <a href="../documents/$($document.id).txt">Canonical plain text</a>
-        · SHA-256: $actualHash<br>
-        © 2026 Oleksandr Ukrainets. All rights reserved.
+        &middot; SHA-256: $actualHash<br>
+        &copy; 2026 Oleksandr Ukrainets. All rights reserved.
     </footer>
 </body>
 </html>
