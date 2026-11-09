@@ -1,108 +1,132 @@
 LUCKYCAT PRIVACY POLICY
 
-Version: 1.0
-Effective date: 11 August 2026
-Last updated: 11 August 2026
+Version: 2.0
+Effective date: 9 November 2026
 
-1. WHO WE ARE
+Policy page: LuckyCat Privacy Policy (https://aleksandrukrainets.github.io/luckycat-legal/privacy-policy/)
 
-This Privacy Policy explains how the LuckyCat mobile game (the "Game"), package identifier com.OlekU.LuckyCat, handles information.
+1. RESPONSIBLE PERSON AND SCOPE
 
-The data controller for the limited personal data described in this Policy is:
+Oleksandr Ukrainets, an individual residing in Poland without a registered company, is the Developer of LuckyCat and the controller for the support processing described here. For all questions, including privacy, rights requests and complaints, contact lucky.cat.support@gmail.com.
 
-Oleksandr Ukrainets (OlekU)
-Poland
-Email: lucky.cat.support@gmail.com
+This Policy covers the LuckyCat Android application, package com.lucky.cat.ou, voluntary support correspondence, and visits to its public legal pages. The first distribution markets are the 27 EU Member States and the United States. The App is intended for adults aged 18 or older, or the higher age of legal majority where they reside, supervising their cats.
 
-This Policy applies to the Game, support communications sent to the email address above, and the public LuckyCat legal pages.
+The GDPR applies to personal-data processing in the context of the Developer's establishment in Poland, including relevant support processing for people in the United States. Additional applicable US rights remain available. Nothing here asserts a blanket exemption from privacy laws because the App is free or the Developer is an individual.
 
-2. THE GAME DOES NOT COLLECT OR TRANSMIT GAMEPLAY DATA
+2. CURRENT APP DATA PRACTICES
 
-The current version of the Game is free and operates offline. It does not provide user accounts, advertising, in-app purchases, analytics, tracking, profiling, cloud features, social features, or developer-operated servers.
+The current release is free, with no advertising, purchases, subscriptions, developer-operated backend, user accounts or cloud-save service. The App does not ask for your name, postal address, telephone number, payment details or login credentials, and does not automatically send gameplay records to the Developer.
 
-The Game does not collect or transmit gameplay information, device identifiers, advertising identifiers, precise or approximate location, contacts, photos, audio, health information, payment information, or other personal data to the developer. The developer does not sell gameplay data or share gameplay data with third parties.
+Unity Analytics, Engine Diagnostics, Cloud Diagnostics and other app telemetry services are disabled for this release. No advertising SDK or advertising-ID access is used. The App does not track people across other apps or websites.
 
-Unity Engine Diagnostics, Unity Analytics, Cloud Diagnostics, advertising services, and other telemetry services are disabled for this release.
+Generative AI tools helped prepare some development artwork. The App has no runtime AI service and does not submit user or gameplay data to AI models. It does not perform profiling or automated individual decision-making producing legal or similarly significant effects within Article 22 GDPR.
 
-3. INFORMATION STORED ONLY ON YOUR DEVICE
+This description of the App is distinct from Google Play's platform processing, operating-system backups, web hosting and information you voluntarily email. Those activities are explained below.
 
-The Game stores a small amount of information locally on your device so that it can remember your choices:
+3. LOCAL RECORDS AND OPERATING-SYSTEM BACKUPS
 
-- language preference;
-- light or dark display theme;
-- favourite game configurations and selected gameplay settings;
-- the version of the Terms of Use that was accepted; and
-- the UTC date and time at which that version of the Terms of Use was accepted.
+The App uses local storage for the following purposes:
 
-This information remains on your device. It is not transmitted to the developer or used to identify, track, or profile you. It remains until it is overwritten by a later choice, removed through the Game where that option exists, cleared through your device's application settings, or deleted when you uninstall the Game. Clearing the Game's data or uninstalling the Game also removes the locally stored Terms acceptance record, so the Game may ask for acceptance again.
+Language and game configuration — Remember selected settings, including ticket count, numbers per ticket and number range; until changed, overwritten or local app data is removed
 
-4. VOLUNTARY SUPPORT COMMUNICATIONS
+Favorite game configurations — Reuse settings explicitly saved to Favorites; until removed through Favorites or local app data is removed. These are settings, not an archive of caught-number tickets
 
-If you contact lucky.cat.support@gmail.com, you voluntarily provide the email address from which you write, the content of your message, and any attachments or other information that you choose to send.
+Last completed series — Retain the latest completed numbers, replay configuration and whether Results should reopen. A later completed series replaces the main record. A recovery copy can retain an earlier record until it too is overwritten or removed
 
-The developer uses support communications only to:
+Terms acceptance — Store the accepted Terms version and UTC acceptance time; until updated or local app data is removed
 
-- respond to and manage your request;
-- investigate technical, safety, abuse, or security issues;
-- keep a reasonable record of the support provided; and
-- establish, exercise, or defend legal claims or comply with a legal obligation when necessary.
+Required update version — Store the highest applicable newer version reported available through Google Play. LuckyCat uses this for its own new-series restriction; the requirement is cleared when the installed version reaches that code or a higher code, subject to the limitations in the Terms
 
-Depending on the circumstances, the legal basis under the General Data Protection Regulation ("GDPR") is taking steps at your request, the developer's legitimate interests in operating and protecting the Game and responding to users, compliance with a legal obligation, or the establishment, exercise, or defence of legal claims.
+Early-user ad-free entitlement — An eligible pre-advertising release stores a free local flag after successful saving. It has no scheduled expiry and will be honoured by a later advertising release while available to the installation
 
-Please do not send information that is unnecessary for your request, particularly sensitive information or personal data about children or other people.
 
-Support email is provided through Gmail, a service of Google. Google may process technical and account information required to deliver and secure email under its own terms and privacy notice. You can review Google's Privacy Policy at https://policies.google.com/privacy.
+The last-result files include a backup used for recovery; clearing the Results restoration marker does not itself promise erasure of every saved copy. Clearing app data or uninstalling removes the local app copy, subject to system backup/restore behaviour. These actions may also remove the early-user entitlement and acceptance record. There is no developer account from which to restore them. The Developer cannot remotely inspect or delete local game files. This does not affect your rights concerning data held in support correspondence.
 
-Support correspondence is normally deleted no later than 12 months after the request is closed. A relevant record may be kept longer when reasonably necessary to comply with law, resolve an active dispute, prevent abuse, or establish, exercise, or defend legal claims. It will then be deleted when that reason no longer applies, subject to mandatory retention requirements.
+These records are not automatically sent to the Developer. You may nevertheless choose to send a screenshot or other record to support. The operating system may back up or restore app preferences and files, including update and entitlement flags, according to Android's backup rules, the App's configuration and your device settings. Such copies may be held in your Google account or transferred during device migration. The Developer has no access to your personal OS backups; recovery and portability are not guaranteed. See Android Auto Backup (https://developer.android.com/identity/data/autobackup) and Google's Privacy Policy (https://policies.google.com/privacy).
 
-5. PUBLIC LEGAL PAGES
+Local storage is not automatically exempt from ePrivacy rules just because it contains no name or advertising ID. Where storage or access is strictly necessary for a service you requested, applicable ePrivacy rules permit it without separate consent. Accepting Terms does not provide consent for non-essential storage. Any future non-essential storage requiring consent must wait for that separate consent.
 
-The public Privacy Policy and Terms of Use are hosted with GitHub Pages. The developer does not place analytics, advertising, cookies, tracking pixels, or third-party scripts on those pages.
+4. VOLUNTARY EMAIL SUPPORT
 
-GitHub may automatically process limited technical request data, such as an IP address, browser or device information, and request logs, to deliver and protect GitHub Pages. The developer does not receive a visitor-level analytics feed from these pages. GitHub's processing is governed by its own privacy notice, available at https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement.
+When you email lucky.cat.support@gmail.com, the Developer receives your email address, sender display name, message, any attachments you choose to include and ordinary email routing metadata. Contacting support is optional and not required to play. If information needed to understand or respond to a request is missing, it may not be possible to resolve it.
 
-6. SHARING, SERVICE PROVIDERS, AND INTERNATIONAL TRANSFERS
+Please provide only information needed for the request. Do not send identity documents, payment credentials, precise location, health information or other sensitive personal information, or unnecessary information about children or other people. The App does not request or automatically collect those categories. Free-text correspondence may nevertheless contain them. Unneeded information received in this way is deleted; any exceptional retention or further use must have a specific lawful basis and, for special-category data, meet the additional applicable conditions. It is not used for advertising or profiling.
 
-Because gameplay and local preference data are not transmitted to the developer, the developer does not disclose that data to anyone.
+A. Purposes and legal bases
 
-For the limited services described above, Google provides email infrastructure and GitHub provides public-page hosting. Those providers may process information in countries outside the European Economic Area. Their privacy notices describe their roles, safeguards, and available transfer mechanisms. Personal data may also be disclosed when required by applicable law or when reasonably necessary to protect legal rights, safety, or the security of the Game or support channel.
+- General support and technical or safety enquiries: the legitimate interest in responding to people who contact us and maintaining the operation and safety of LuckyCat, balanced against their rights — Article 6(1)(f) GDPR.
+- Objectively necessary contractual support: performance of the agreement or relevant steps requested by the individual — Article 6(1)(b).
+- A specific EU or Polish legal obligation: for example, handling a data-rights request — Article 6(1)(c), where that obligation applies.
+- Establishing, exercising or defending a concrete legal claim: necessary records under Article 6(1)(f); Article 17(3)(e) may provide an exception to erasure, rather than being a separate Article 6 legal basis.
 
-The developer does not sell personal data and does not share personal data for cross-context behavioural advertising.
+We do not treat sending an email as consent to unrelated processing. Ordinary support records are not kept indefinitely in case a hypothetical dispute arises.
 
-7. CHILDREN AND ANIMAL USERS
+B. Retention and deletion
 
-The Game and its support channel are intended for adult pet owners who are at least 18 years old. The Game is designed to be used with an animal only under an adult's supervision; an animal is not a contracting user.
+Ordinary support correspondence is kept for no more than 12 months after the enquiry is closed. Closure is recorded when the enquiry has been resolved or there is no further support action to take; a follow-up requiring action reopens it. Applicable requests for earlier erasure are considered under section 8.
 
-The Game does not knowingly collect personal data from children. If the developer learns that a child has sent personal data through the support channel without appropriate involvement of a parent or guardian, the developer will delete it as soon as reasonably practicable unless retention is required by law or needed to protect the child or another person. A parent or guardian may request deletion by emailing lucky.cat.support@gmail.com.
+Deletion covers the relevant correspondence and attachments under the Developer's control, including incoming and sent messages, archived/All Mail messages and Trash. Records are reviewed and deleted in time to meet the stated period. This is deletion of the relevant records, not of the entire mailbox.
 
-8. YOUR DATA PROTECTION RIGHTS
+If a specific legal obligation or concrete claim requires or justifies longer retention, only necessary records are kept, their use is restricted, and the need is reviewed. They are deleted when that necessity ends, subject to applicable legal duties. Resolution of a dispute does not automatically end every applicable retention duty. Google's own operational logs or residual backups follow its retention processes, which the Developer does not independently control.
 
-If the GDPR or similar law applies to information held by the developer, you may have the right to request access, correction, deletion, restriction of processing, data portability, or to object to processing. Where processing is based on consent, you may withdraw consent at any time without affecting processing that occurred before withdrawal. Some rights depend on the circumstances and may be limited by applicable law, the rights of other people, or the need to preserve evidence for a legal claim.
+C. Access and handling
 
-The Game's local information is not accessible to the developer. You can control or delete it directly by changing Game or device settings, clearing application data, or uninstalling the Game.
+On the Developer's side, only the Developer has access to the support mailbox. There is no automatic forwarding or external archive of support messages. Appropriate account and device security measures must be maintained to protect correspondence; this Policy does not claim a particular security certification or that email is end-to-end encrypted. Before disclosing correspondence in response to a rights request, the requester and the scope of disclosure are checked proportionately to protect other people's data.
 
-To exercise a right concerning support correspondence, email lucky.cat.support@gmail.com. The developer may request information reasonably necessary to verify the request and will respond within the period required by applicable law.
+5. GOOGLE AND GITHUB SERVICES
 
-You also have the right to lodge a complaint with a competent supervisory authority. In Poland, this is the President of the Personal Data Protection Office (Prezes Urzędu Ochrony Danych Osobowych, UODO): https://uodo.gov.pl/en.
+Google Play and In-App Updates. The App uses Google's app-update library and the system Google Play service. Google's In-App Updates data disclosure (https://developer.android.com/guide/playcore/in-app-updates#data-safety) lists device metadata, app version and installed modules/asset packs used to determine update availability and size. The Google Play platform may also process account, network and other service information under the Google Privacy Policy (https://policies.google.com/privacy). This does not mean the Developer receives that platform information or that each category in Google's general policy is collected by this particular SDK. Google Ireland Limited or Google LLC acts in the role specified for the relevant Google service.
 
-9. AUTOMATED DECISIONS, PROFILING, AND DATA PROTECTION OFFICER
+Gmail support. Support uses an ordinary consumer Gmail account. Google handles email content and service information for hosting, delivery, spam protection and other purposes described in its terms and privacy policy. Google states that it does not offer an Article 28 data-processing agreement for consumer Gmail and does not act as a processor for that consumer service. The Developer remains responsible for its own collection, use, access and deletion of support messages. See Google's explanation of consumer and enterprise services (https://support.google.com/policies/answer/9581826?hl=en). This disclosure does not remove any duty to arrange processing lawfully.
 
-The developer does not use personal data for automated decision-making or profiling. The developer has not appointed a Data Protection Officer because one is not required for the processing described in this Policy. Privacy questions may be sent directly to lucky.cat.support@gmail.com.
+GitHub and GitHub Pages. Legal pages are hosted through GitHub Pages. Visiting them involves hosting request information such as an IP address; GitHub describes its practices in the Pages documentation (https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages) and GitHub Privacy Statement (https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). The responsible GitHub entity is GitHub, Inc. or GitHub B.V., as applicable under that statement. Microsoft is the parent company, not an interchangeable name for the hosting entity. The Developer does not receive raw visitor IP logs from GitHub. Opening the separate source repository involves GitHub's own website practices.
 
-10. SECURITY
+6. INTERNATIONAL PROCESSING
 
-The developer uses reasonable organisational and technical measures appropriate to the limited support information handled. However, no device, email service, hosting service, or method of transmission can be guaranteed to be completely secure. You should keep your device protected and avoid sending unnecessary personal or sensitive information by email.
+The Developer handles support correspondence in Poland. Use of Google and GitHub can involve processing in the United States and other countries described in their policies; data is not guaranteed to remain in the EU.
 
-11. CHANGES TO THIS POLICY
+Where a transfer relies on the EU–US Data Privacy Framework, adequacy applies only to a participating recipient and covered data. Where applicable, providers use other safeguards, including Standard Contractual Clauses. This is not a claim that every transfer is covered by both mechanisms. Consult Google's transfer frameworks (https://policies.google.com/privacy/frameworks), GitHub's international-transfer and DPF provisions (https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement#international-data-transfers), and the DPF programme (https://www.dataprivacyframework.gov/).
 
-If the Game's data practices change, the developer will review those practices before release and, where required, update this Policy, the Google Play Data safety declaration, and any consent or opt-out mechanism.
+You may contact lucky.cat.support@gmail.com for information about relevant recipients and transfer safeguards, including how to obtain information or copies of applicable safeguards. Requests are handled with appropriate protection of confidential information and other people's data. Processing of a US user's support enquiry by the Developer in Poland remains subject to the GDPR as described in section 1.
 
-A new Policy version and effective date will be published in the Game and on the public legal pages before or together with the Game update to which it applies. Material changes will be presented with appropriate notice. Earlier versions may be retained for reference. Changes will not reduce rights that have already arisen under mandatory law.
+7. CHILDREN, TEENAGERS AND AGE INFORMATION
 
-12. CONTACT
+The intended human audience is adults aged 18 or older, or the higher local age of legal majority. The App does not target children or teenagers below that threshold or request their personal information. The current build described here has no technical age-verification mechanism and receives no platform age signals. A store rating or statement in Terms is not proof of age verification or compliance with applicable age-assurance laws. Any required mechanism and its disclosures must be in place before the distribution or processing for which the law requires them.
 
-For privacy questions, support requests, or rights requests, contact:
+If support learns that a message is from a person below the applicable age threshold, it is not used for marketing or profiling. Processing is limited to lawful, necessary handling of the enquiry, a rights request, a parent/guardian contact, a safety issue or deletion. Unneeded records are deleted promptly. Any necessary exception must meet the applicable child-data and other legal requirements, including COPPA where it applies; it does not authorize unrestricted retention of minor correspondence.
 
-Oleksandr Ukrainets (OlekU)
-Poland
-lucky.cat.support@gmail.com
+Introducing age signals would require a truthful update of this Policy before that processing starts, specifying the data, purpose, recipients, retention and legal basis. No such integration is represented as already operating.
+
+8. DATA RIGHTS AND RESPONSE TIMES
+
+You may request access to and correction or erasure of personal data held in support, restriction of processing where the law permits, or object to processing based on legitimate interests. Restriction is distinct from objection and can apply, for example, while disputed accuracy is checked. Erasure is subject to the applicable legal exceptions, including necessary legal obligations or claims; it is not limited to a mandatory “Legal Hold”.
+
+Portability applies to data you provided where processing is automated and based on consent or contract. Where processing relies on consent, you may withdraw it without affecting earlier lawful processing. These rights apply with their statutory conditions; we do not require you to accept advertising to exercise them.
+
+Write to lucky.cat.support@gmail.com. Using the address from your original enquiry normally helps verification. If that is unavailable, or an authorized representative acts for you, contact us to arrange a proportionate alternative. We do not routinely request identity documents or create identifiers solely to locate inaccessible local game files. We may request only the additional information reasonably necessary to establish identity or authority.
+
+We respond without undue delay and within one calendar month, or sooner if applicable law requires. A lawful extension is used only when its conditions are met. Under GDPR this can be up to two additional months, with reasons notified within the first month; any shorter applicable limit takes precedence. If we decline a request, we explain the reason and available remedies. Requests are normally free; any lawful exception for manifestly unfounded or excessive requests must be explained rather than applied automatically.
+
+You may complain to Prezes Urzędu Ochrony Danych Osobowych (PUODO), ul. Stanisława Moniuszki 1A, 00-014 Warszawa, Poland — uodo.gov.pl (https://uodo.gov.pl) — or another competent supervisory authority, including in your EU habitual residence, workplace or place of the alleged infringement. Access to judicial remedies is preserved.
+
+9. ADDITIONAL US DISCLOSURES
+
+The Developer does not sell personal information or share it for cross-context behavioural or targeted advertising, and does not disclose support correspondence to third parties for their own direct marketing. The App does not track activity across third-party websites or apps over time and therefore does not change its behaviour in response to browser Do Not Track signals. This does not waive any applicable right to an opt-out preference signal.
+
+Support information comes directly from your voluntary email and includes contact information, message contents, attachments and routing metadata. Purposes, provider access and retention are described in sections 4–6. The App does not request or automatically collect precise location, biometrics, medical information, financial account details or cross-app browsing history; unsolicited support content is handled as described in section 4, rather than represented as impossible to receive.
+
+US residents may request access, correction and deletion of their support records using section 8, without discrimination for exercising rights. Additional mandatory rights under CCPA/CPRA or other applicable state laws remain available where those laws apply. This Policy does not make a blanket claim that statutory thresholds are unmet.
+
+If a request is refused, you may appeal by emailing lucky.cat.support@gmail.com, preferably with the subject “Privacy appeal”. We respond within one calendar month or any shorter mandatory period, with an explanation. Any broader statutory appeal right is preserved. If an appeal is denied, you may contact your state's Attorney General; where applicable law requires a particular complaint method, it will be provided with the decision. This process does not delay a separate GDPR request or limit other available remedies.
+
+10. CHANGES, FUTURE ADVERTISING AND PURCHASES
+
+Material changes will be identified on the Policy page with a version and effective date and brought to users' attention in the App before the new processing begins. An updated policy does not itself authorize a new purpose or substitute for any required consent. The applicable information will also be made available through the support contact for relevant changes to support processing.
+
+Before any future advertising SDK or non-essential storage is activated, actual data practices must be disclosed and any required prior consent obtained. Where the selected advertising service requires a certified consent platform, the then-current requirements will be followed. Refusal or withdrawal must prevent processing that requires that consent; applicable US opt-outs and preference signals, including Global Privacy Control where required, must also be respected. Data processing necessary for a future purchase and restoration must be disclosed before that feature is used.
+
+The current release has none of those advertising or purchase features. Acceptance of Terms or publication of this Policy does not activate them or authorize tracking.
+
+For all questions: lucky.cat.support@gmail.com.
+
+Privacy Policy (https://aleksandrukrainets.github.io/luckycat-legal/privacy-policy/) · Terms of Use (https://aleksandrukrainets.github.io/luckycat-legal/terms-of-use/) · Document source repository (https://github.com/AleksandrUkrainets/luckycat-legal)

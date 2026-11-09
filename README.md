@@ -1,6 +1,6 @@
 # LuckyCat Legal Documents
 
-Official legal documents for the LuckyCat mobile game (`com.OlekU.LuckyCat`).
+Official legal documents for the LuckyCat mobile game (`com.lucky.cat.ou`).
 
 - [Privacy Policy](https://aleksandrukrainets.github.io/luckycat-legal/privacy-policy/)
 - [Terms of Use](https://aleksandrukrainets.github.io/luckycat-legal/terms-of-use/)

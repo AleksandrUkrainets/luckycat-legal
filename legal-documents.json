@@ -3,17 +3,17 @@
   "documents": [
     {
       "id": "privacy-policy",
-      "version": "1.0",
-      "effectiveDate": "2026-08-11",
-      "sha256": "2dfaef268352a888a1260bf25e214fe8f95cb742c51cbdefb48c8845163b35eb",
+      "version": "2.0",
+      "effectiveDate": "2026-11-09",
+      "sha256": "866a00f16bdb90efd58e3945afc80c619404ddadf5f5bc888d1613c34b8b7775",
       "asset": "PrivacyPolicy.txt",
       "publicUrl": "https://aleksandrukrainets.github.io/luckycat-legal/privacy-policy/"
     },
     {
       "id": "terms-of-use",
-      "version": "1.0",
-      "effectiveDate": "2026-08-11",
-      "sha256": "203627536f099889c7a5ea9958952dab172dc894af4637dff4d94ffff88f7b42",
+      "version": "2.0",
+      "effectiveDate": "2026-11-09",
+      "sha256": "c96bb74f5eb10df6e637f0566382ff2430fdaa0a8437df7dea7e31881b5d58cb",
       "asset": "TermsOfUse.txt",
       "publicUrl": "https://aleksandrukrainets.github.io/luckycat-legal/terms-of-use/"
     }

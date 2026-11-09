@@ -82,6 +82,7 @@ a:focus-visible {
 }
 
 .site-footer {
+    overflow-wrap: anywhere;
     padding: 22px 0 34px;
     color: #d2c5b0;
     font-size: 0.875rem;

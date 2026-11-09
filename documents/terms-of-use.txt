@@ -1,121 +1,114 @@
 LUCKYCAT TERMS OF USE
 
-Version: 1.0
-Effective date: 11 August 2026
-Last updated: 11 August 2026
+Version: 2.0
+Effective date: 9 November 2026
 
-1. AGREEMENT AND ELIGIBILITY
+Terms page: LuckyCat Terms of Use (https://aleksandrukrainets.github.io/luckycat-legal/terms-of-use/)
+Privacy page: LuckyCat Privacy Policy (https://aleksandrukrainets.github.io/luckycat-legal/privacy-policy/)
 
-These Terms of Use (the "Terms") form an agreement between you and Oleksandr Ukrainets (OlekU), Poland (the "Developer"), concerning the LuckyCat mobile game (the "Game"), package identifier com.OlekU.LuckyCat.
+1. DEVELOPER, ACCEPTANCE AND SCOPE
 
-You must be at least 18 years old to download, accept these Terms, or use the Game. The Game is intended for an adult pet owner to operate while supervising an animal. If you do not agree to these Terms, select "Not Now" and do not use the Game.
+These Terms govern the LuckyCat Android application, package identifier com.lucky.cat.ou (the App). The Developer is Oleksandr Ukrainets, an individual residing in Poland, without a registered company. For all questions, complaints and privacy enquiries, contact lucky.cat.support@gmail.com.
 
-You accept these Terms by selecting the acceptance button presented in the Game. The Game stores the accepted Terms version and UTC acceptance time only on your device.
+You accept these Terms by selecting the acceptance button after they are presented in the App. Downloading or installing the App alone does not constitute acceptance. If you decline, a new game series cannot start. The App stores the accepted Terms version and UTC acceptance time in local app storage, as explained in the Privacy Policy.
 
-2. LIMITED LICENCE
+The Privacy Policy explains data handling; accepting these Terms is not consent to advertising tracking or other non-essential processing. Where processing requires consent, that consent must be obtained separately. Where applicable law provides an opt-out right, it must be made available independently of contractual acceptance.
 
-Subject to these Terms and applicable law, the Developer grants you a limited, personal, non-exclusive, non-transferable, non-sublicensable, and revocable licence to install and use one copy of the Game on devices that you own or control, solely for private, non-commercial entertainment and in accordance with the applicable app store rules.
+Nothing in these Terms removes any mandatory consumer rights or remedies under applicable Polish, other EU Member State, or US federal or state law. Describing the Developer as an individual without a company does not determine or exclude any legal status or obligations that apply to the activity.
 
-The Game is licensed, not sold. No ownership right in the Game is transferred to you. The licence ends if these Terms are terminated, but termination does not remove rights that have already arisen under mandatory law.
+2. WHAT THE APP DOES
 
-3. OWNERSHIP AND THIRD-PARTY COMPONENTS
+LuckyCat is a touchscreen entertainment game for domestic cats under adult supervision and a playful number-selection tool for their adult owners. The owner selects the number of tickets, numbers per ticket and number range. During the hunt, touches on the mouse produce numbers that form the displayed combinations, called “tickets”. Favorites stores game configurations for reuse.
 
-The Developer and the Developer's licensors retain all rights in the Game, including its code, original artwork, visual design, audio, text, gameplay presentation, trade names, and LuckyCat branding, except for rights expressly granted in these Terms.
+- The number-selection process is not certified as a lottery or cryptographic random-number generator. No guarantee is made about the uniformity, independence or non-repetition of the resulting combinations.
+- The App accepts no bets, wagers or stakes, sells or registers no real lottery tickets, and awards no money or items of real-world value.
+- The App and Developer are not affiliated with or endorsed by a lottery operator. The App does not predict lottery outcomes or improve your chances of winning.
+- If you independently use the displayed numbers in a real-world lottery, that purchase is outside the App. You are responsible for checking the numbers and complying with the rules and age restrictions of that lottery.
 
-The Game may include third-party software, fonts, tools, or other materials. Those components remain subject to their applicable copyright notices and licence terms. Nothing in these Terms reduces rights granted to you directly under an applicable open-source or third-party licence.
+3. AGE AND SUPERVISION
 
-4. ACCEPTABLE USE
+You must be 18 or older, or meet the higher age of legal majority where you reside, to use the App. It is not intended for children or teenagers below that threshold. A cat may interact with the device only under an adult owner's direct supervision.
 
-You must not, except to the extent expressly permitted by mandatory law or an applicable third-party licence:
+The current build described by these Terms has no in-app technical age verification and does not receive platform age signals. Store ratings and these contractual age restrictions are not technical verification and do not replace any age-assurance obligations applicable to the Developer. If a release uses age-assurance features, its actual data practices must be disclosed before that processing begins.
 
-- use the Game for an unlawful, fraudulent, abusive, or commercial purpose;
-- copy, sell, rent, lease, sublicense, distribute, publish, or commercially exploit the Game or a substantial part of it;
-- modify, adapt, translate, create derivative works from, reverse engineer, decompile, or disassemble the Game;
-- bypass, disable, interfere with, or test the security, integrity, access controls, or intended operation of the Game;
-- use automation, modified software, or other means to manipulate the Game in a way that harms the Game, a device, another person, or the Developer's rights; or
-- remove or obscure copyright, trademark, attribution, or other proprietary notices.
+The App is entertainment, not veterinary care, medical advice or a behavioural training service.
 
-This section does not prohibit acts that cannot lawfully be restricted, including interoperability or security research rights that mandatory law gives you, provided you comply with the conditions of that law.
+4. LICENCE AND INTELLECTUAL PROPERTY
 
-5. ADULT SUPERVISION, PET SAFETY, AND DEVICE SAFETY
+Subject to these Terms, the Developer grants you a personal, non-exclusive, non-transferable and non-sublicensable licence to install and use the App on Android devices you own or control for personal, non-commercial entertainment. The initial distribution markets are the 27 EU Member States and the United States. This distribution statement does not by itself prohibit an existing user from using the App while travelling, subject to applicable law and technical availability.
 
-The Game displays moving visual targets intended to attract an animal's attention. Animal behaviour is unpredictable. You are the adult responsible for supervising every session and deciding whether the Game, the device, the surroundings, and the animal are suitable for use.
+Rights in the code, human-authored designs, compilation, and licensed assets remain with the Developer or their respective owners. Some illustrations were prepared using generative AI tools and human editing. Rights in those materials are claimed only to the extent that applicable law protects them. Third-party licence terms remain applicable.
 
-Before and during use, you should:
+You may not sell, rent, unlawfully redistribute or maliciously interfere with the App. Restrictions on copying, modification, reverse engineering or decompilation do not override activities permitted by mandatory law, including applicable interoperability and lawful research exceptions.
 
-- place the device on a stable, secure, flat surface where it cannot fall or slide;
-- remove sharp, fragile, valuable, hot, electrical, or otherwise hazardous objects from the animal's reach;
-- protect the device as appropriate and consider the risk of scratches, bites, impacts, liquid, or other damage;
-- keep people, other animals, cables, and obstacles safely clear;
-- monitor the animal continuously; and
-- stop immediately if the animal shows stress, fear, frustration, overexcitement, aggression, fatigue, physical discomfort, or unsafe behaviour.
+The Developer may terminate this licence for a material breach of these Terms or where required by law. Where a breach can reasonably be remedied, the Developer will provide notice and a reasonable opportunity to remedy it before termination. Immediate action may be taken where necessary to address unlawful activity or a serious security risk. Any action must be proportionate and preserve mandatory rights.
 
-Do not hold a device in a way that places your hands, face, or body in the path of an animal's paws, claws, teeth, or movement. Do not use the Game as a substitute for appropriate care, rest, exercise, environmental enrichment, training, or professional advice.
+5. FREE RELEASE, UPDATES AND FUTURE MONETIZATION
 
-6. NO VETERINARY OR PROFESSIONAL ADVICE
+A. Current release
 
-The Game is an entertainment product. It does not provide veterinary, behavioural, medical, training, or other professional advice and is not designed to diagnose, prevent, monitor, or treat any condition.
+The current release is free. It contains no advertisements, subscriptions, automatic renewals, free trials or in-app purchases. No payment details are requested by the App.
 
-The Developer does not promise that any animal will notice, enjoy, understand, or safely react to the Game, or that use will produce a particular behavioural, health, or enrichment result. If you have concerns about an animal's health or behaviour, stop using the Game and consult an appropriately qualified professional.
+B. Required updates
 
-7. OPERATION, UPDATES, AND DISCONTINUATION
+The App uses Google Play In-App Updates. Google Play reports update availability; LuckyCat makes an available newer version compulsory before starting another series. Availability depends on the particular account and device, not merely on whether a version has been published somewhere in the store.
 
-The current Game is provided free of charge and is designed to operate offline. Compatibility and performance can vary by device, operating system, display, input hardware, and settings.
+- Before an update requirement has been recorded, offline play is allowed. A failed availability check or its waiting timeout does not itself create a requirement.
+- When Google Play reports an available higher version, or an applicable update already in progress, the App records the required version locally. It blocks new series, including Replay, until that version or a higher version is installed.
+- A series already in progress may finish and its results are saved. The App remains able to open; the restriction concerns starting a new series. The update prompt may cover the current screen when shown.
+- Cancelling installation, going offline, restarting the App, or a later negative check does not remove a stored requirement. Google Play installation still requires user interaction; the App does not install updates silently.
+- If the release is withdrawn, becomes unavailable, or cannot be installed on the device, the restriction may persist. An accessible compatible release with a sufficiently high version code is needed to clear that stored requirement through an update. Its availability or timing cannot be guaranteed. Contact lucky.cat.support@gmail.com for assistance.
 
-The Developer may provide updates to maintain security, compatibility, functionality, or legal compliance. An update may change or remove features. Where applicable law requires an update, notice, continued availability, or another remedy, the Developer will comply with that requirement.
+Clearing app data or reinstalling is not a guaranteed recovery method. Clearing data removes the local copy of settings, favorite configurations, results, Terms acceptance and the early-user ad-free flag. The operating system may retain or restore backups, and Google Play may report an update again. Do not rely on these actions to preserve your tickets or entitlement. If saving results fails, the App retains them in memory and does not start installation through its update action until saving succeeds; closing the process can still lose unsaved information.
 
-The Developer may stop distributing or supporting the free Game for legitimate operational, technical, security, or legal reasons. When reasonably practicable, the Developer will provide reasonable notice. Discontinuation does not cancel obligations or remedies that arose earlier under mandatory law.
+Mandatory updates do not constitute consent to advertising tracking. Any future non-essential processing must respect the separate consent or opt-out requirements that apply.
 
-8. STATUTORY CONSUMER RIGHTS AND WARRANTIES
+C. Early-user ad-free status and a future purchase
 
-Nothing in these Terms excludes, restricts, or replaces mandatory consumer rights, including rights relating to conformity, digital content, security updates, remedies, and unfair contract terms that apply in your country.
+Launching an eligible pre-advertising release grants a free local early-user ad-free entitlement after it is successfully saved. A later advertising release will honour that stored entitlement while it remains available to the installation. This is not a purchase or an account entitlement, and has no scheduled expiry.
 
-Subject to those mandatory rights, the Game is made available on an "as available" basis. The Developer does not promise that the Game will meet every preference, operate on every device or future operating-system version, remain uninterrupted, or be completely free from defects. This does not exclude any warranty or remedy that cannot lawfully be excluded.
+The App has no developer-operated account or cloud recovery service. Clearing app data, reinstalling or changing devices can remove the entitlement. Android backup may copy or restore it, but portability and recovery are not guaranteed. A failure to save the flag means it has not yet been reliably granted; it is not guaranteed solely by downloading the App.
 
-9. RESPONSIBILITY AND LIMITATION OF LIABILITY
+Later versions may introduce advertisements, such as on Results, and an optional one-time, non-consumable purchase to remove ads for users without that local entitlement. The planned paid purchase is separate from the free flag and would use Google Play Billing and the purchasing Google Play account for restoration on compatible installations and devices. These features are not present now. Before their introduction, the Developer must disclose the actual price, scope, restoration conditions, applicable withdrawal and refund rights, and data practices. No subscription or future charge is created by accepting these Terms.
 
-You are responsible for following the safety instructions in these Terms and for taking reasonable care of the animal, device, people, property, and surroundings. To the extent permitted by applicable law, the Developer is not responsible for loss or damage to the extent it is caused by unsafe placement, inadequate supervision, an animal's unpredictable act, a failure to stop unsafe use, device modification, use contrary to these Terms, or another circumstance outside the Developer's reasonable control.
+6. DEVICE AND PET SAFETY
 
-The Game is intended for private consumer use. To the extent permitted by law, the Developer is not responsible for business losses, loss of profit, loss of revenue, loss of business opportunity, or other commercial loss resulting from consumer use of the Game. The Developer is not responsible for loss that was not reasonably foreseeable when these Terms were accepted.
+Supervise the cat continuously, place the device on a stable non-slip surface away from edges, and protect it from falls, claws, moisture and chewing. A suitable screen protector may help, but does not guarantee protection. Stop if the cat becomes distressed, overstimulated or uncomfortable. Do not let the activity interfere with the animal's normal rest and care. You remain responsible for ordinary supervision and safe placement; this does not exclude responsibility the law places on the Developer.
 
-Nothing in these Terms excludes or limits liability for death or personal injury caused by negligence where such liability cannot be excluded, fraud or fraudulent misrepresentation, intentional misconduct, gross negligence, or any other liability or consumer remedy that mandatory law does not allow to be excluded or limited.
+7. AVAILABILITY AND MANDATORY RIGHTS
 
-10. SUSPENSION AND TERMINATION
+Except for promises expressly made in these Terms and rights that cannot lawfully be excluded, the free App is provided on an “as is” and “as available” basis. Compatibility and performance can vary by device and operating system. No particular lottery outcome, uninterrupted availability or protection against physical damage is promised.
 
-You may end this agreement at any time by stopping use and uninstalling the Game.
+This section does not exclude mandatory rights concerning the conformity of digital content, remedies for defects, or any other statutory protection that applies to you. Free availability does not itself remove those rights where applicable.
 
-The Developer may terminate the licence if you materially breach these Terms and, where the breach can be remedied, you do not remedy it within a reasonable time after notice. The Developer may act immediately where reasonably necessary to address illegal use, a serious security risk, or harm to another person or the Developer's rights. Sections that by their nature should continue, including ownership, accrued rights, applicable law, and lawful liability limitations, survive termination.
+8. RESPONSIBILITY AND LIABILITY
 
-11. GOOGLE PLAY
+The App does not participate in your independent lottery purchases, guarantee winnings, or insure devices against ordinary pet-related risks. The Developer is not responsible merely because an independently purchased ticket loses, a user copies numbers incorrectly, or local data is removed by the user's own actions.
 
-If you obtain the Game through Google Play, your use is also subject to the applicable Google Play terms. Google is not a party to these Terms between you and the Developer, and these Terms do not reduce any rights you have against Google under its terms or applicable law.
+These statements do not excuse the Developer's own breach of duty or remove remedies for defective performance. Nothing in these Terms excludes or limits liability for intentional misconduct, gross negligence, fraud, death or personal injury caused by the Developer's negligence, or any other liability or consumer remedy that cannot lawfully be excluded. No zero-value or nominal monetary liability cap is imposed.
 
-12. PRIVACY
+9. COMPLAINTS, LAW AND COURTS
 
-The LuckyCat Privacy Policy explains the Game's no-data operation, local preferences, optional support communications, retention, service providers, and your privacy rights. The Privacy Policy is available from the Welcome screen and at https://aleksandrukrainets.github.io/luckycat-legal/privacy-policy/.
+Send all complaints to lucky.cat.support@gmail.com. The Developer will respond by email within 14 calendar days of receipt. This is a support commitment; any stricter applicable duty or statutory consequence remains unaffected. Requests about personal data follow the Privacy Policy deadlines.
 
-13. CHANGES TO THESE TERMS
+Polish law governs these Terms, without depriving you of mandatory protections of the law that applies to you, including protections in your EU country of habitual residence or US state of residence. Where EU consumer jurisdiction rules apply, your right to bring proceedings in your home Member State is preserved. These Terms do not designate an exclusive Polish court for all disputes or restrict access to another competent court.
 
-The Developer may change these Terms when reasonably necessary to reflect changes to the Game, law, security, distribution, or the parties' rights and responsibilities. The updated Terms will identify a new version and effective date and will be published in the Game and on the public legal pages.
+There is no mandatory arbitration clause and no waiver of class actions, representative proceedings or trial by jury in these Terms. Whether a particular procedure is available is determined by applicable law.
 
-If a change is material, the Game will require a new explicit acceptance before starting a new game session. If you do not accept the updated Terms, you may decline and stop using the Game. A change does not retroactively remove rights or remedies that have already arisen under mandatory law.
+10. CHANGES AND ENDING USE
 
-14. GOVERNING LAW AND DISPUTES
+Changes may be needed for new features, legal obligations, security or technical issues. The Developer will publish the revised text with its version and effective date and bring material changes to your attention in the App before requiring acceptance. An updated Terms version will be presented for express acceptance before a new series starts. Publishing a change on a website alone does not establish your acceptance.
 
-These Terms are governed by the law of Poland, without depriving you of mandatory consumer protections provided by the law of the country in which you habitually live.
+Changes do not apply retroactively or waive accrued rights. Any additional legally required advance notice or termination right remains applicable. Acceptance of revised Terms is separate from any consent required for new data processing. If you decline revised Terms, you need not accept them, but the App may not permit a new series; any mandatory rights and remedies remain available.
 
-The parties should first try to resolve a concern by contacting lucky.cat.support@gmail.com. You may bring proceedings in any court that has jurisdiction under mandatory consumer law, including, where applicable, the courts of the country in which you live. These Terms do not require arbitration, waive participation in a class or collective action, or prevent use of an available consumer-protection authority or dispute-resolution body.
+You may end this agreement by stopping use and uninstalling the App. Review the data-loss and backup explanation in section 5 before uninstalling. Terms governing accrued rights and disputes remain relevant after termination.
 
-15. GENERAL TERMS
+11. APPLICABLE RESTRICTIONS AND SEVERABILITY
 
-If a provision of these Terms is found invalid or unenforceable, it will be applied to the maximum extent permitted by law and the remaining provisions will continue in effect. A failure to enforce a provision immediately is not a waiver. You may not transfer this agreement except where mandatory law permits. The Developer may transfer it as part of a lawful transfer of the Game or business, provided your mandatory rights are preserved.
+Use of the App must comply with applicable export-control and sanctions rules. Nothing here requires conduct prohibited by law. If a provision is invalid or unenforceable, it is ineffective to that extent; the remaining provisions continue only insofar as the agreement can lawfully continue. An invalid consumer term is not automatically replaced with the most developer-favourable alternative.
 
-These Terms and the documents expressly incorporated into them are the agreement concerning your use of the Game, subject always to mandatory law and applicable third-party licences.
+12. CONTACT AND DOCUMENTS
 
-16. CONTACT
+For all questions, including support, complaints and privacy: lucky.cat.support@gmail.com. The contracting party and country are identified in section 1.
 
-Questions, notices, and support requests may be sent to:
-
-Oleksandr Ukrainets (OlekU)
-Poland
-lucky.cat.support@gmail.com
+Terms of Use (https://aleksandrukrainets.github.io/luckycat-legal/terms-of-use/) · Privacy Policy (https://aleksandrukrainets.github.io/luckycat-legal/privacy-policy/) · Document source repository (https://github.com/AleksandrUkrainets/luckycat-legal)

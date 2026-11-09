@@ -45,7 +45,7 @@ foreach ($document in $manifest.documents) {
     <meta name="legal-document-effective-date" content="$($document.effectiveDate)">
     <meta name="legal-document-sha256" content="$actualHash">
     <title>LuckyCat $title</title>
-    <link rel="stylesheet" href="../assets/legal.css">
+    <link rel="stylesheet" href="../assets/legal.css?v=2">
 </head>
 <body>
     <header class="site-header">
